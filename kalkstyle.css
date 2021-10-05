@@ -1,11 +1,11 @@
 body{
-    background-color: cadetblue;
+    background-color: #F4A460;
 }
 fieldset{
-    background-color: aquamarine;
+    background-color: #F0E68C;
     width: 400px;
     height: 120px;
-    border: solid 2px blue;
+    border: solid 2px black;
 }
 input[type=number]{
     width:60px;
