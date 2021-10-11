@@ -104,9 +104,6 @@ function kilogramText() {
         vastus4.innerHTML = calculate(inputValue, milligrammi) + " milligrammi"
     } else if (inputText.value == "mikrogrammi") {
         vastus4.innerHTML = calculate(inputValue, mikrogrammi) + " mikrogrammi"
-    } else (inputText.value == "")
-    {
-        vastus4.innerHTML = calculate(inputValue,) + " pole midagi valitud "
     }
 }
 
